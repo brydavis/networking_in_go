@@ -1,1 +1,1 @@
-# Networking in Go# Info
+# Networking in Go
